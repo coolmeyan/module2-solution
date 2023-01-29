@@ -1,2 +1,2 @@
 # module2-solution
-Solution to module 2 coding assignment
+Solution to Module 2 Coding Assignment
